@@ -26,8 +26,8 @@ Hey, My name is Leandro, I'm 20 years old, I'm from Argentina and I'm a freelanc
 ### Statistics
 Last repository deletion on May 27, 2023.
 
-![Le4nDev github stats](https://github-readme-stats.vercel.app/api?username=Le4nDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![T4yrn github stats](https://github-readme-stats.vercel.app/api?username=T4yrn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Le4nDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=Le4nDev&theme=radical&include_all_commits=true&count_private=true)
+![T4yrn github streak](https://github-readme-streak-stats.herokuapp.com/?user=T4yrn&theme=radical&include_all_commits=true&count_private=true)
 
 <div>
