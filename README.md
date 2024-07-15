@@ -9,7 +9,7 @@ Hey, My name is Leandro, I'm 20 years old, I'm from Argentina and I'm a freelanc
 -------------------
 
 ### Contact Me
-<a href="">![Instagram](https://img.shields.io/badge/_soon-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="">![Twitter](https://img.shields.io/badge/_soon-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> ![Discord](https://img.shields.io/badge/soon%23soon-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="">![Instagram](https://img.shields.io/badge/_soon-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="">![Twitter](https://img.shields.io/badge/_soon-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> ![Discord](https://img.shields.io/badge/le4ndev-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
